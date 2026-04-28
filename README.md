@@ -26,4 +26,7 @@ This repo is used to store and showcase my learning projects, experiments, and d
 
 ## 📬 Contact
 
-- GitHub: https://github.com/netbydanielgit
+- GitHub: https://netbydaniel.github.io/danielCastellanos/
+- Linkedin: 
+- Instagram: 
+- Email: Danielcastellanoss21@gmail.com
