@@ -120,3 +120,28 @@ footer {
   color: white;
   padding: 30px;
 }
+
+.contact {
+  text-align: center;
+  padding: 40px;
+}
+
+.contact-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #333;
+  transition: 0.3s;
+}
+
+.contact-item i {
+  font-size: 22px;
+}
+
+.contact-item:hover {
+  color: #ffffff;
+  transform: scale(1.05);
+}
