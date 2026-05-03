@@ -14,7 +14,7 @@ https://netbydaniel.github.io/danielCastellanos/
 - Git & GitHub
 - python
 - Packet Tracer
-- Networkking labs (learning CCNA)
+- Networking labs (learning CCNA)
 
 ---
 
