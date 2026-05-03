@@ -11,10 +11,10 @@ https://netbydaniel.github.io/danielCastellanos/
 
 - HTML
 - CSS
-- JavaScript
 - Git & GitHub
 - python
-- packet tracer
+- Packet Tracer
+- Networkking labs (learning CCNA)
 
 ---
 
@@ -26,7 +26,7 @@ This repo is used to store and showcase my learning projects, experiments, and d
 
 ## 📬 Contact
 
-- GitHub: https://netbydaniel.github.io/danielCastellanos/
-- Linkedin: 
-- Instagram: 
+- GitHub: https://github.com/netbydaniel/danielCastellanos.git
+- Linkedin: https://www.linkedin.com/in/daniel-castellanos-85629a246
+- Instagram: https://www.instagram.com/netbydaniel?igsh=M3BlYjFjbWE2YzN0&utm_source=qr
 - Email: Danielcastellanoss21@gmail.com
