@@ -24,6 +24,14 @@ nav ul {
   padding: 80px 20px;
 }
 
+.btn-cv {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #eaeaea;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+}
 /* ABOUT */
 .about {
   padding: 60px 20px;
