@@ -44,6 +44,13 @@ nav a {
   padding: 60px 20px;
 }
 
+.about p {
+  max-width: 400px;
+  margin: 0 auto;
+  font-size: 18px;
+  
+}
+
 /* PROJECTS */
 .cards {
   display: flex;
@@ -144,4 +151,8 @@ footer {
 .contact-item:hover {
   color: #ffffff;
   transform: scale(1.05);
+}
+
+html {
+  scroll-behavior: smooth;
 }
